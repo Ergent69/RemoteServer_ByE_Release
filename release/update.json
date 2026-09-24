@@ -1,0 +1,186 @@
+{
+  "schema": 1,
+  "application": "Remote Control",
+  "version": "1.0.1",
+  "archive": "RemoteControl-Windows-1.0.1.zip",
+  "archive_sha256": "b0cebfbbf900bbfe990d178172590bb5cf22cbd9820d4f20d4ec1e2446b3c443",
+  "executable_sha256": "a3d790a97d3b2eef6c41bc89ac5fa10e233e12acf3f14c08c44ba5852f3063fc",
+  "files": [
+    {
+      "path": "bin/brotlicommon.dll",
+      "sha256": "1807943065034646bb336712a23b111184cac3b40e89e04d8a6a72981a4c9874",
+      "size": 137728
+    },
+    {
+      "path": "bin/brotlidec.dll",
+      "sha256": "0553bf7482e68f4fbf8940e4b499c93cca3e238fbfff8a873cfbcc16da431fec",
+      "size": 52224
+    },
+    {
+      "path": "bin/bz2.dll",
+      "sha256": "130924317a17df8c9db8e0de4afb9f1df703d653f6a44a7f24e82c88cd22dae0",
+      "size": 76800
+    },
+    {
+      "path": "bin/double-conversion.dll",
+      "sha256": "094acaf99f728019a22fa37496eb591994fdcd303b313058c391dc799530d79b",
+      "size": 75776
+    },
+    {
+      "path": "bin/freetype.dll",
+      "sha256": "55514ebb8dd5a0dcf6ad748999e6ee23bec1cfad2cf5c7ba9700fbedfe44ad6c",
+      "size": 692224
+    },
+    {
+      "path": "bin/harfbuzz.dll",
+      "sha256": "50e642fc569d34e76b9b1b51991f00c7b8f5c37aaa9ebe4bbc0f9f23cfe172e6",
+      "size": 1198080
+    },
+    {
+      "path": "bin/icudt78.dll",
+      "sha256": "64f2bc1580899c3e2e230810d519956ad370ede2d71b3dc2ff6d69b3af95e1a8",
+      "size": 33110528
+    },
+    {
+      "path": "bin/icuin78.dll",
+      "sha256": "26edac901ac13080df36310b2e964700233a87d5b797d14e6cadde8799da554b",
+      "size": 2777088
+    },
+    {
+      "path": "bin/icuuc78.dll",
+      "sha256": "0ae2ad7e44409f371d43c2b0ea4d21beaf69efe71ed124df595de98c5541183f",
+      "size": 1848320
+    },
+    {
+      "path": "bin/libcrypto-3-x64.dll",
+      "sha256": "905790ae008fa7f66f2558c5f915c9712ff24df810c2acb4ca40ce5fe452d62f",
+      "size": 5327872
+    },
+    {
+      "path": "bin/libpng16.dll",
+      "sha256": "f0dd393f426f592c9e986d1f225103ac2bd36e858957c4e12b112b335dcb9833",
+      "size": 196608
+    },
+    {
+      "path": "bin/md4c.dll",
+      "sha256": "99ea4e360e603e12b53de0aae5a7a5fb6184fb166ea53cb5d61eb0961da62d0b",
+      "size": 64512
+    },
+    {
+      "path": "bin/opus.dll",
+      "sha256": "efb6d6f3a8ae8ff6981071de138ada2040d648417b33f3492ea5b29491843af1",
+      "size": 436736
+    },
+    {
+      "path": "bin/pcre2-16.dll",
+      "sha256": "c02c9a42b6423be0ea69b77aeba8049c7813ec105618ce1edd920ceb26d58f5b",
+      "size": 571904
+    },
+    {
+      "path": "bin/platforms/qwindows.dll",
+      "sha256": "91f403095c21996e844798f59d89062be10069ca1a162b53a0d607d9d8ec1240",
+      "size": 944640
+    },
+    {
+      "path": "bin/Qt6Core.dll",
+      "sha256": "d3e7d84152d5709a535cd2fec2c51c621cf3d5569a87fa9941c6a27fd31b85b9",
+      "size": 5313536
+    },
+    {
+      "path": "bin/Qt6Gui.dll",
+      "sha256": "6826213884ce8e1a200afa4c84eee0b077d7768ad7b02ec19f2c35c7afadb1d5",
+      "size": 6998016
+    },
+    {
+      "path": "bin/Qt6Network.dll",
+      "sha256": "935e73daa588a787601744cd9d6381228cfd2d152b19810fecaf9319174da6b6",
+      "size": 1628160
+    },
+    {
+      "path": "bin/Qt6Widgets.dll",
+      "sha256": "248d93051a8ab822a8ac10b9ced9e8e654eebb7289e54aacc7635f917484e582",
+      "size": 6157312
+    },
+    {
+      "path": "bin/RemoteControleByE.exe",
+      "sha256": "a3d790a97d3b2eef6c41bc89ac5fa10e233e12acf3f14c08c44ba5852f3063fc",
+      "size": 2291200
+    },
+    {
+      "path": "bin/RemoteControlUpdater.exe",
+      "sha256": "75d949c0834085a612db3e8405497e048c4e1d085e1260a21400e62d4ffdd0cc",
+      "size": 142848
+    },
+    {
+      "path": "bin/zlib1.dll",
+      "sha256": "186ac3d0220fa36a7181ea5d98d742a69fdf2b69e79d98799a9d2944783343f1",
+      "size": 90112
+    },
+    {
+      "path": "bin/zstd.dll",
+      "sha256": "709164331b7282bf3c7fdd52e53598c8158492cbf940bb528ab0ca042a96a80b",
+      "size": 657920
+    },
+    {
+      "path": "adb/adb.exe",
+      "sha256": "957e46b8615f7af5b7292a2ddabe98d2e61940c3fb2b0545756507f080613e71",
+      "size": 8485016
+    },
+    {
+      "path": "adb/AdbWinApi.dll",
+      "sha256": "120bef587119c6cb926b86b9be90fdfbce38937588eae28cd91a94ce63c7b965",
+      "size": 108184
+    },
+    {
+      "path": "adb/AdbWinUsbApi.dll",
+      "sha256": "6ca69a2ca0e31309c087d288f058977d421ad03500e4c3e1dbd981241a069c60",
+      "size": 73368
+    },
+    {
+      "path": "adb/NOTICE.txt",
+      "sha256": "628f43e9c88e2bf5aee9fc4c1cb672bf3931ba12dd5ef75c8170678395f3ca23",
+      "size": 1154858
+    },
+    {
+      "path": "adb/server.jar",
+      "sha256": "3a71f5a65e0c1aa7a681e61287400fac7cb0053b5c094f111d08fe206eb20de4",
+      "size": 4737
+    },
+    {
+      "path": "res/image/ByECrop.bmp",
+      "sha256": "3cf1958e5a95ba23a667527b06bdf8cc3bf197a9167bcd48112f20dc87884143",
+      "size": 24534
+    },
+    {
+      "path": "res/sounds/authentication_error.wav",
+      "sha256": "ad9f6ac2213b9e0c9d2740f631a250c351f9284afcd1d4ad41a3578adbae9364",
+      "size": 406506
+    },
+    {
+      "path": "res/sounds/connected.wav",
+      "sha256": "e8e4371fab766579b72c8babc1f68bff56e37e8c88a25960952d3e902c6b1c64",
+      "size": 287966
+    },
+    {
+      "path": "res/sounds/disconnected.wav",
+      "sha256": "4c6462a89fda855fc666796df01afa19e8f487d4b0cf0cc35a1304f476840962",
+      "size": 317598
+    },
+    {
+      "path": "res/sounds/new_connection.wav",
+      "sha256": "2c5a0ce1247e09cb541fbab40a7ae796efd93419b60b35b9c53a5242d933f5c6",
+      "size": 347234
+    },
+    {
+      "path": "res/sounds/off.wav",
+      "sha256": "00baa2fc431f3208210884801573d8ff8801f3a232f427ec7e253df11752e801",
+      "size": 37250
+    },
+    {
+      "path": "res/sounds/on.wav",
+      "sha256": "1ef5e7aacf54050780d1f4108e9a6aa75db5540abcd60a87929af4f941adffd7",
+      "size": 37250
+    }
+  ],
+  "contains_user_data": false
+}
