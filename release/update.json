@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "application": "Remote Control",
-  "version": "1.0.5",
-  "archive": "RemoteControl-Windows-1.0.5.zip",
-  "archive_sha256": "ff330244802a72a7f5903ee3ec550968c8e16b603131ebca4a16aab8efc645e0",
-  "executable_sha256": "a3d790a97d3b2eef6c41bc89ac5fa10e233e12acf3f14c08c44ba5852f3063fc",
+  "version": "1.0.6",
+  "archive": "RemoteControl-Windows-1.0.6.zip",
+  "archive_sha256": "e13c2dfa16a9f6604a472bf25e87a1244ff2607bad0abf6848c221b56269770a",
+  "executable_sha256": "d01893069bd21a3a95247b5f5baed67e286cd0329183eb0355da8c9aead91055",
   "files": [
     {
       "path": "bin/brotlicommon.dll",
@@ -103,13 +103,13 @@
     },
     {
       "path": "bin/RemoteControleByE.exe",
-      "sha256": "a3d790a97d3b2eef6c41bc89ac5fa10e233e12acf3f14c08c44ba5852f3063fc",
-      "size": 2291200
+      "sha256": "d01893069bd21a3a95247b5f5baed67e286cd0329183eb0355da8c9aead91055",
+      "size": 1820160
     },
     {
       "path": "bin/RemoteControlUpdater.exe",
-      "sha256": "f240027d527e08c0d926f8e6e08424b2ec0b6a5840bff2a0e3bbdb0d4146f018",
-      "size": 152576
+      "sha256": "d7fcdd821da129d25ba03116872c9357201d5e0a3c14c69a82b1894aab83607e",
+      "size": 162304
     },
     {
       "path": "bin/tls/qschannelbackend.dll",
