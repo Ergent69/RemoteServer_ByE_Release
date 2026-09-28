@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "application": "Remote Control",
-  "version": "1.0.11",
-  "archive": "RemoteControl-Windows-1.0.11.zip",
-  "archive_sha256": "6813d50dad6094a92b0f5ac107d9a656a0acf5484170beb955e0582a77ef11d2",
+  "version": "1.0.12",
+  "archive": "RemoteControl-Windows-1.0.12.zip",
+  "archive_sha256": "e57aa30e184c80fcb481ee484042025bb8a83d85589f4b0b388c9aac15a0683c",
   "executable_sha256": "0356d8d02dc7b3b2620f89a66f09438da0b547d84deed59132f7884cd5203596",
   "files": [
     {

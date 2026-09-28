@@ -1,2 +1,3 @@
+release/update.json -text
 release/update.sig binary
 release/*.zip binary
