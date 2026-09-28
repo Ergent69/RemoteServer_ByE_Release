@@ -1,0 +1,12 @@
+# Publish only the update manifest, its detached signature, and versioned archives.
+/*
+!/.gitignore
+!/release/
+/release/*
+!/release/update.json
+!/release/update.sig
+!/release/RemoteControl-Windows-*.zip
+
+# Never stage signing material even if it is placed here by mistake.
+**/*private*.pem
+**/*.key
