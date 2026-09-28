@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "application": "Remote Control",
-  "version": "1.0.10",
-  "archive": "RemoteControl-Windows-1.0.10.zip",
-  "archive_sha256": "bdddee95e345f13436c54d48dbb6403ff6886067b129e1726866e1e0abde3725",
+  "version": "1.0.11",
+  "archive": "RemoteControl-Windows-1.0.11.zip",
+  "archive_sha256": "6813d50dad6094a92b0f5ac107d9a656a0acf5484170beb955e0582a77ef11d2",
   "executable_sha256": "0356d8d02dc7b3b2620f89a66f09438da0b547d84deed59132f7884cd5203596",
   "files": [
     {
@@ -108,8 +108,8 @@
     },
     {
       "path": "bin/RemoteControlUpdater.exe",
-      "sha256": "de3e9fc60c7acef753ae5f95e2b3f9548ef50b8ee7d3d46781b584826bc39966",
-      "size": 173568
+      "sha256": "ccba53585d5b815bd6e0891e02261f2a2f7e536970ab349ba7f70c4bc1573881",
+      "size": 175616
     },
     {
       "path": "bin/tls/qschannelbackend.dll",

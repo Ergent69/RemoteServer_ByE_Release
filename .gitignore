@@ -1,6 +1,7 @@
 # Publish only the update manifest, its detached signature, and versioned archives.
 /*
 !/.gitignore
+!/.gitattributes
 !/release/
 /release/*
 !/release/update.json
