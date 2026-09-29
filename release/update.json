@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "application": "Remote Control",
-  "version": "1.0.14",
-  "archive": "RemoteControl-Windows-1.0.14.zip",
-  "archive_sha256": "d835fb422da45cc63ae66f6a2f750433cd8b5c4dcd9dfd7d94379e7cff9db151",
-  "executable_sha256": "95bb02ab1df35ef1f357f88a4837e333e3e377da6dc9ab5f473cde83d4f95f7a",
+  "version": "1.0.15",
+  "archive": "RemoteControl-Windows-1.0.15.zip",
+  "archive_sha256": "8ea12181850b2941cd55b2d6cfee8f8724e3679afd6223fedd41305553d7fe00",
+  "executable_sha256": "3bade806bb70b40df8866fc6ce2f5eb69d42218a1620eb731c2731fba3d7c8a0",
   "files": [
     {
       "path": "bin/brotlicommon.dll",
@@ -103,13 +103,13 @@
     },
     {
       "path": "bin/RemoteControleByE.exe",
-      "sha256": "95bb02ab1df35ef1f357f88a4837e333e3e377da6dc9ab5f473cde83d4f95f7a",
-      "size": 2330112
+      "sha256": "3bade806bb70b40df8866fc6ce2f5eb69d42218a1620eb731c2731fba3d7c8a0",
+      "size": 4962816
     },
     {
       "path": "bin/RemoteControlUpdater.exe",
-      "sha256": "ccba53585d5b815bd6e0891e02261f2a2f7e536970ab349ba7f70c4bc1573881",
-      "size": 175616
+      "sha256": "28f5fdd185326068aafb052937a398dcb227fdcdbe9dc39782c34336585cbf93",
+      "size": 178688
     },
     {
       "path": "bin/tls/qschannelbackend.dll",
@@ -155,6 +155,46 @@
       "path": "res/image/ByECrop.bmp",
       "sha256": "3cf1958e5a95ba23a667527b06bdf8cc3bf197a9167bcd48112f20dc87884143",
       "size": 24534
+    },
+    {
+      "path": "res/image/mascot_idle.png",
+      "sha256": "974f4b00968139cdc0b8193b7289e1e2f25be46ec48b4b602940b3a4a4292557",
+      "size": 323586
+    },
+    {
+      "path": "res/image/mascot_idle_breathe.png",
+      "sha256": "22dd5637a0fd84d2122e297486b33a73e773960787d6e45b2cde8d0630c52a32",
+      "size": 326711
+    },
+    {
+      "path": "res/image/mascot_sad.png",
+      "sha256": "095d20350cf2cf0e51c61e14eadb133dc5b2f64b04245d82d03c495a63ce4c21",
+      "size": 322707
+    },
+    {
+      "path": "res/image/mascot_sad_breathe.png",
+      "sha256": "464b8baae9ed6d1db4afa9a06314c0fa641200945b0a8785512ca42b0cfdb637",
+      "size": 324820
+    },
+    {
+      "path": "res/image/mascot_talk_1.png",
+      "sha256": "062a8561b3647e441ce62185d5f109ec86f488ddd2690f7ed4eb1fec8c9260ad",
+      "size": 324998
+    },
+    {
+      "path": "res/image/mascot_talk_1_breathe.png",
+      "sha256": "b4ea2f0235456c44db21e887cc02ab6f282655dabbef0470b1845255784b0280",
+      "size": 327886
+    },
+    {
+      "path": "res/image/mascot_talk_2.png",
+      "sha256": "f80a562c986dd150a7584edc0f7c48616a796f93814c84a81ba80f8105c2f2de",
+      "size": 325522
+    },
+    {
+      "path": "res/image/mascot_talk_2_breathe.png",
+      "sha256": "642cfa525509c46c2276a3038eec9b2bfdd5935a746009192a1ea51dc68efcf3",
+      "size": 327288
     },
     {
       "path": "res/sounds/authentication_error.wav",
