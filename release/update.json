@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "application": "Remote Control",
-  "version": "1.0.21",
-  "archive": "RemoteControl-Windows-1.0.21.zip",
-  "archive_sha256": "03d1cf7029802d865ea54a617e84d9e15c738555f4b7714a139f271e249d7bdb",
-  "executable_sha256": "5343b67d73d69724833ce1779179fcb2aa5b8c35f79c4892147f803908a9b477",
+  "version": "1.0.22",
+  "archive": "RemoteControl-Windows-1.0.22.zip",
+  "archive_sha256": "29d9b6f2c5f0a6facb2b7887b7e65a1ffaaf2b9ce7e0f03acf9948760de635cb",
+  "executable_sha256": "ab7a07664004915e634010ae13f6f37fe6483816cb170da39dbf1d26bc56abcb",
   "files": [
     {
       "path": "bin/brotlicommon.dll",
@@ -103,8 +103,8 @@
     },
     {
       "path": "bin/RemoteControleByE.exe",
-      "sha256": "5343b67d73d69724833ce1779179fcb2aa5b8c35f79c4892147f803908a9b477",
-      "size": 5160448
+      "sha256": "ab7a07664004915e634010ae13f6f37fe6483816cb170da39dbf1d26bc56abcb",
+      "size": 5152768
     },
     {
       "path": "bin/RemoteControlUpdater.exe",
@@ -148,8 +148,8 @@
     },
     {
       "path": "adb/server.jar",
-      "sha256": "3a71f5a65e0c1aa7a681e61287400fac7cb0053b5c094f111d08fe206eb20de4",
-      "size": 4737
+      "sha256": "e02d79d100ece5a65fc8388a92835d1c30767591604796dc2f1f36b7ee34c9ec",
+      "size": 6760
     },
     {
       "path": "res/image/ByECrop.bmp",
