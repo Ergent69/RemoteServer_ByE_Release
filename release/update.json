@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "application": "Remote Control",
-  "version": "1.0.24",
-  "archive": "RemoteControl-Windows-1.0.24.zip",
-  "archive_sha256": "535795737c843b0f1e0c7c9d38022b42d2b14fb4a7167f19f02bec55ff2ae258",
-  "executable_sha256": "bb30017c52e4432d9bcb3105400259d6d1fe3c208e032ddc26439642c36a07ef",
+  "version": "1.0.25",
+  "archive": "RemoteControl-Windows-1.0.25.zip",
+  "archive_sha256": "08392a1c8173871088fce53d0d03cc2678ee5dc003a00d8ab8f58316ebad6dd2",
+  "executable_sha256": "e411a89ba95db50853c144b26dd9015b6b25dc8214ae081206148a3c3781f0a8",
   "files": [
     {
       "path": "bin/brotlicommon.dll",
@@ -103,8 +103,8 @@
     },
     {
       "path": "bin/RemoteControleByE.exe",
-      "sha256": "bb30017c52e4432d9bcb3105400259d6d1fe3c208e032ddc26439642c36a07ef",
-      "size": 5189632
+      "sha256": "e411a89ba95db50853c144b26dd9015b6b25dc8214ae081206148a3c3781f0a8",
+      "size": 5267456
     },
     {
       "path": "bin/RemoteControlUpdater.exe",
